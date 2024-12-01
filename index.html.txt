@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css"> <!-- Assuming the CSS file is in public_html/css directory -->
+</head>
+<body>
+    <header>
+        <h1>Your Website</h1>
+        <!-- Navigation, if needed -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Main Section</h2>
+            <p>Your content goes here...</p>
+            <img src="img/myImage.jpg" alt="Description of Image"> <!-- Assuming the images are in public_html/img directory -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Website</p>
+    </footer>
+</body>
+</html>
+
+
